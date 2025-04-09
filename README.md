@@ -1,10 +1,11 @@
-## Hi there 👋 ✨ _This Naruse_ ✨
+## Hi there 👋 ✨ _Naruse_ です！！！ ✨
 
 About me:
-+ 👦🏼 A normal student
++ 👦🏼 A Normal Student
 + 🏠 China (華南/Southern) / Japan (東京/Tokyo) / Taiwan (臺北/taipei) 
 + 📖 I’m currently learning JLPT (N5/N4) J.TEST (F/G)
 + 🕮 Program language (studying):Vue javascript C#
++ 😄 Mental Age : 16+
 
 About Github
 
